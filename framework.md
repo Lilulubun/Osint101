@@ -19,4 +19,13 @@ https://whatsmyname.app/
 
 http://www.viewexifdata.com/
 -------------------------
+# find email
+
+https://phonebook.cz/
+https://tools.emailhippo.com/
+-------------------------
+# find password
+
+https://haveibeenpwned.com/
+https://scylla.sh
 
