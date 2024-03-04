@@ -15,4 +15,8 @@ https://pimeyes.com/en
 
 https://whatsmyname.app/
 -------------------------
+# exif viewer
+
+http://www.viewexifdata.com/
+-------------------------
 
